@@ -1,4 +1,4 @@
-Given an array Arr of N positive integers. Your task is to find the elements whose value is equal to that of its index value ( Consider 1-based indexing ).
+/*Given an array Arr of N positive integers. Your task is to find the elements whose value is equal to that of its index value ( Consider 1-based indexing ).
 
 Example 1:
 
@@ -14,6 +14,7 @@ N = 1
 Arr[] = {1}
 Output: 1
 Explanation: Here Arr[1] = 1 exists.
+*/
 
 class Solution{
 public:
