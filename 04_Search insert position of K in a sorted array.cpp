@@ -1,4 +1,4 @@
-Given a sorted array Arr[](0-index based) consisting of N distinct integers and an integer k, the task is to find the index of k, if its present in the array Arr[]. Otherwise, find the index where k must be inserted to keep the array sorted.
+/*Given a sorted array Arr[](0-index based) consisting of N distinct integers and an integer k, the task is to find the index of k, if its present in the array Arr[]. Otherwise, find the index where k must be inserted to keep the array sorted.
 
 
 Example 1:
@@ -21,6 +21,8 @@ Output: 1
 Explaination: Since 2 is not present in 
 the array but can be inserted at index 1 
 to make the array sorted.
+    
+*/
 
 class Solution{
     public:
